@@ -28,7 +28,7 @@ Writing code and building the software according to the design specifications.
 ### Testing:
 Conducting various tests to ensure the software meets quality standards and functional requirements.
 ### Deployment:
-  - Releasing the software to users or customers.
+Releasing the software to users or customers.
 ### Maintenance:
 Providing ongoing support, updates, and enhancements to the software after deployment.
 
